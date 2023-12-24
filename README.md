@@ -1,9 +1,4 @@
 - 👋 Hi, I’m Paramita Pradhan
-- 👀 Lately been interested in collaborating on AI projects
-- 🌱 I’m currently new to the AI space & playing around at the moment
+- 👀 Passionate about exploring latest AI trends, building GPT models from OpenAI and
+- 🌱 Integrating with LangChain to develop LLM Powered, Natural Language Processing and Generation Applications.
 - 📫 How to reach me ... paramita.a.pradhan@gmail.com
-
-<!---
-papradhan/papradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
